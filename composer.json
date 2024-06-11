@@ -31,7 +31,7 @@
       "maatwebsite/excel": "^3.1",
       "nesbot/carbon": "^2.46",
       "predis/predis": "^1.1",
-      "sentry/sentry-laravel": "^2.10",
+      "sentry/sentry-laravel": "^4.6",
       "setasign/fpdf": "^1.8",
       "setasign/fpdi": "^2.3",
       "syamsoul/laravel-datatable-ssp": "^2.2",
